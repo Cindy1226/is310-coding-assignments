@@ -13,7 +13,8 @@
 
 4. Discord
 - **Discord Username**: [Cindy Liang]
-
+![Discord](images/discord.png)
 
 5. Hypothesis
 - **Hypothesis Username**: [Cindyl3]
+![Hypothesis](images/hypothesis.png)
