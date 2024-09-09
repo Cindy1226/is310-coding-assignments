@@ -1,1 +1,0 @@
-You’ve entered the labyrinth. Choose your path wisely: maze1 or maze2?
