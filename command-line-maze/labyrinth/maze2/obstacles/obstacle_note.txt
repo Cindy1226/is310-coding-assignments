@@ -1,0 +1,1 @@
+Maze2 is filled with obstacles. Find a way through to proceed.

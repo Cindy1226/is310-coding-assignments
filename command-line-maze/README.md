@@ -1,16 +1,15 @@
-# Escape the Haunted Cornfield
+# The Mystical Corn Maze
 
-Created by: Heather Mentzer
+Created by:Cindy Liang
 
 ## Scenario:
-You're lost in a Haunted Cornfield. Your goal is to escape before the scarecrows catch you. Follow the clues and navigate through the maze to find the 
-hidden escape key.
+You are lost in the Mystical Corn Maze. Your objective is to navigate through various areas and find your way out. Use the clues provided to guide 
+your journey.
 
 ## How to Solve:
 1. Start in the `entrance` directory.
-2. Use the clues in the files to navigate through directories.
-3. Look out for hidden files and directories (use `ls -la` to reveal them).
-4. Avoid the dead ends and ghosts!
+2. Navigate through the maze using the clues in the files.
+3. Look for hidden files and directories (use `ls -la` to reveal them).
+4. Solve the puzzles and follow the clues to escape.
 
 Good luck!
-
