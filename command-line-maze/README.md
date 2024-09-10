@@ -1,16 +1,14 @@
-# The Enchanted Forest
+# Corn Maze
 
-Created by: Cindy Liang
+Welcome to the Expanded Corn Maze! Your goal is to navigate through the directories and find the exit.
 
-## Scenario:
-You are lost in the Enchanted Forest. Your goal is to find your way out by navigating through mystical areas and finding hidden clues. Be careful of 
-traps and use the hints wisely.
-
-## How to Solve:
-1. Start in the `entrance` directory.
-2. Use the clues in the files to navigate through directories.
-3. Look out for hidden files and directories (use `ls -la` to reveal them).
-4. Avoid dangerous paths and find the hidden key to escape.
+## Instructions
+1. Start at the `entrance` directory.
+2. You may take either `path1` or `path4`. `Path4` leads to a detour.
+3. Follow the clues found in each file to guide you through the maze.
+4. The exit can be found in the `exit` directory inside `path3`.
+5. The `hidden` directory contains additional clues but is not necessary to solve the maze.
 
 Good luck!
 
+Created by Cindy Liang
