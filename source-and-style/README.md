@@ -13,5 +13,9 @@ The website was created and maintained by the **International Children's Digital
 in the footer of the site or on the [About Us page](http://www.childrenslibrary.org/icdl/SimpleSearchCategory?ilang=English).
 
 ## Screenshots
-(Screenshot description here, such as of the HTML, CSS, or JavaScript files being inspected. Add screenshots to an images folder and link them here.)
 
+### CSS Inspection
+![CSS Inspection](images/css_inspect.png)
+
+### JavaScript Inspection
+![JavaScript Inspection](images/js_inspect.png)
