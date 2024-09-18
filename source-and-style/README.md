@@ -4,7 +4,7 @@
 [International Children's Digital Library](http://www.childrenslibrary.org/)
 
 ## Web Technologies Used
-
+- **HTML**: The site uses standard HTML to structure the content of the website. This includes elements like headings, paragraphs, and links.
 - **CSS**: Several `.css` files are used to handle the styling of the website, including fonts, layouts, and color schemes.
 - **JavaScript**: Multiple `.js` files are used for interactive features such as search functionality and navigation controls.
 
@@ -13,6 +13,9 @@ The website was created and maintained by the **International Children's Digital
 in the footer of the site or on the [Foundation Team](http://www.childrenslibrary.org/about/foundation.html).
 
 ## Screenshots
+### HTML Inspection
+![HTML Inspection](images/html_inspect.png)
+
 
 ### CSS Inspection
 ![CSS Inspection](images/css_inspect.png)
