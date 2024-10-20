@@ -1,11 +1,11 @@
-Fandom Wikis and Web Scraping Homework
+## Fandom Wikis and Web Scraping Homework
 In this assignment, we are tasked with selecting a fandom wiki of our interest and scraping data from it using Python. Below are the details of my project, which focuses on scraping the University of Illinois Urbana-Champaign Fandom Wiki.
 
-Fandom Wiki Selection
+# Fandom Wiki Selection
 Fandom Wiki: University of Illinois Urbana-Champaign Wiki
 I have chosen the University of Illinois Urbana-Champaign Fandom Wiki for this web scraping assignment. This wiki provides a wealth of information on the university’s history, campus culture, significant milestones, and notable alumni. Being a student at UIUC, I am particularly interested in exploring and collecting data that reflects my university’s legacy and impact. This data could be beneficial to both researchers and students.
 
-What I am Interested in Scraping
+# What I am Interested in Scraping
 I plan to scrape the following information from the UIUC Fandom Wiki:
 
 Historical Overview: Capturing key historical milestones related to the university.
@@ -22,7 +22,7 @@ Alumni Influence: Analyzing the impact of notable alumni in fields such as busin
 Campus Culture: Studying how student traditions and university culture have evolved over time.
 This information would be useful for researchers who are studying the history, cultural impact, and academic significance of major public universities like UIUC.
 
-Prerequisites
+# Prerequisites
 To run the fandom_wiki_scraping.py script, you will need the following:
 
 Python 3.x installed on your machine.
@@ -37,6 +37,6 @@ Respect the website's terms of service: Always check the website’s robots.txt 
 
 The script will scrape the relevant information from the University of Illinois Urbana-Champaign Fandom Wiki and save the data in a CSV file. The collected data will be useful for research and analysis related to the university’s history, culture, and notable alumni.
 
-Acknowledgments
+# Acknowledgments
 BeautifulSoup Documentation
 University of Illinois Urbana-Champaign Fandom Wiki
