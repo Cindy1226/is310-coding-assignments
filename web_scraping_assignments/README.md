@@ -1,35 +1,36 @@
 # Fandom Wikis and Web Scraping Homework
 In this assignment, we are tasked with selecting a fandom wiki of our interest and scraping data from it using Python. Below are the details of my project, which focuses on scraping the University of Illinois Urbana-Champaign Fandom Wiki.
 
-### Fandom Wiki Selection
+## Fandom Wiki Selection
 Fandom Wiki: University of Illinois Urbana-Champaign Wiki 
 https://ultimatepopculture.fandom.com/wiki/University_of_Illinois_Urbana-Champaign
 
 I have chosen the University of Illinois Urbana-Champaign Fandom Wiki for this web scraping assignment. This wiki provides a wealth of information on the university’s history, campus culture, significant milestones, and notable alumni. Being a student at UIUC, I am particularly interested in exploring and collecting data that reflects my university’s legacy and impact. This data could be beneficial to both researchers and students.
 
-### What I am Interested in Scraping
-I plan to scrape the following information from the UIUC Fandom Wiki:
+## What I am Interested in Scraping
+### I plan to scrape the following information from the UIUC Fandom Wiki:
 
-Historical Overview: Capturing key historical milestones related to the university.
+*Historical Overview*: Capturing key historical milestones related to the university.
 
-Campus Traditions: Information on long-standing campus traditions and student culture.
+*Campus Traditions*: Information on long-standing campus traditions and student culture.
 
-Notable Alumni: Details about UIUC’s famous alumni and their contributions to society.
+*Notable Alumni*: Details about UIUC’s famous alumni and their contributions to society.
 
-Academic Contributions: Highlighting important academic achievements and breakthroughs.
+*Academic Contributions*: Highlighting important academic achievements and breakthroughs.
 
-Cultural Impact: The role UIUC has played in pop culture, including mentions in media, films, and other forms of entertainment.
-Why the Data is of Interest
+*Cultural Impact*: The role UIUC has played in pop culture, including mentions in media, films, and other forms of entertainment.
 
-The data I plan to scrape could provide valuable insights into various research areas, including:
+## Why the Data is of Interest
 
-Educational History: Understanding the development and contributions of a prominent public university like UIUC.
+### The data I plan to scrape could provide valuable insights into various research areas, including:
 
-Cultural Impact Studies: Investigating how the university has shaped both local and global culture.
+*Educational History*: Understanding the development and contributions of a prominent public university like UIUC.
 
-Alumni Influence: Analyzing the impact of notable alumni in fields such as business, science, and the arts.
+*Cultural Impact Studies*: Investigating how the university has shaped both local and global culture.
 
-Campus Culture: Studying how student traditions and university culture have evolved over time.
+*Alumni Influence*: Analyzing the impact of notable alumni in fields such as business, science, and the arts.
+
+*Campus Culture*: Studying how student traditions and university culture have evolved over time.
 
 This information would be useful for researchers who are studying the history, cultural impact, and academic significance of major public universities like UIUC.
 
