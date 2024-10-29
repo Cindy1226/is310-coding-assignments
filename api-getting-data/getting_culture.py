@@ -4,11 +4,11 @@ import hashlib
 import time
 
 # Type your EUROPEANA API key below:
-EUROPEANA_API_KEY = "videellegi "  # Replace with your actual Europeana API key
+EUROPEANA_API_KEY = "Your-Europeana-API-Key "  # Replace with your actual Europeana API key
 
 # Type your MARVEL API credentials below:
 MARVEL_PUBLIC_KEY = "4474d30154e36d654646761cfbec905a"  # Replace with your actual Marvel public key
-MARVEL_PRIVATE_KEY = "58adc2ae6b340003e2fe64e1a06d8a8ea026413a"  # Replace with your actual Marvel private key
+MARVEL_PRIVATE_KEY = "Your-Marvel_private-API-Key"  # Replace with your actual Marvel private key
 
 # Function to generate Marvel API timestamp and hash
 def get_marvel_auth():
