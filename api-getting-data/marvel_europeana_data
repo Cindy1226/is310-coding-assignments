@@ -1,0 +1,680 @@
+{
+  "Marvel Character": {
+    "Name": "Iron Man",
+    "Description": "Wounded, captured and forced to build a weapon by his enemies, billionaire industrialist Tony Stark instead created an advanced suit of armor to save his life and escape captivity. Now with a new outlook on life, Tony uses his money and intelligence to make the world a safer, better place as Iron Man.",
+    "Thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/527bb7b37ff55.jpg"
+  },
+  "Europeana Sports Data": [
+    {
+      "completeness": 6,
+      "country": [
+        "Italy"
+      ],
+      "dataProvider": [
+        "Cineteca di Bologna"
+      ],
+      "dcLanguage": [
+        "ita",
+        "it"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "ita",
+          "it"
+        ]
+      },
+      "dcTitleLangAware": {
+        "en": [
+          "iron man\\ n\\ t\\ n\\ t iron man."
+        ],
+        "it": [
+          "uomo di ferro\n\t\t\t\t                 \n\t\t\t\t                 Iron Man"
+        ]
+      },
+      "edmConcept": [
+        "http://vocab.getty.edu/aat/300055949",
+        "http://vocab.getty.edu/aat/300136842",
+        "http://vocab.getty.edu/aat/300026030"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Zensur"
+        },
+        {
+          "def": "\u00d6ffentliche Urkunde"
+        },
+        {
+          "def": "Dokument (Objektgattung)"
+        },
+        {
+          "def": "censur"
+        },
+        {
+          "def": "\u5be9\u67e5\u5236\u5ea6"
+        },
+        {
+          "def": "\u516c\u6587"
+        },
+        {
+          "def": "shen ch'a chih tu"
+        },
+        {
+          "def": "kung wen"
+        },
+        {
+          "def": "censorship"
+        },
+        {
+          "def": "official documents"
+        },
+        {
+          "def": "documents (object genre)"
+        },
+        {
+          "def": "sh\u011bn ch\u00e1 zh\u00ec d\u00f9"
+        },
+        {
+          "def": "g\u014dng w\u00e9n"
+        },
+        {
+          "def": "censura"
+        },
+        {
+          "def": "shen cha zhi du"
+        },
+        {
+          "def": "gong wen"
+        },
+        {
+          "def": "censure"
+        },
+        {
+          "def": "censura"
+        },
+        {
+          "def": "documentos oficiales"
+        },
+        {
+          "def": "documentos"
+        },
+        {
+          "def": "censuur"
+        },
+        {
+          "def": "offici\u00eble documenten"
+        },
+        {
+          "def": "documenten"
+        },
+        {
+          "def": "documentos"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "\u00d6ffentliche Urkunde",
+          "Zensur",
+          "Dokument (Objektgattung)"
+        ],
+        "sv": [
+          "censur"
+        ],
+        "pt": [
+          "documentos"
+        ],
+        "zh-hant": [
+          "\u516c\u6587",
+          "\u5be9\u67e5\u5236\u5ea6"
+        ],
+        "zh-latn-wadegile": [
+          "kung wen",
+          "shen ch'a chih tu"
+        ],
+        "en": [
+          "official documents",
+          "censorship",
+          "documents (object genre)"
+        ],
+        "zh-latn-pinyin-x-hanyu": [
+          "sh\u011bn ch\u00e1 zh\u00ec d\u00f9",
+          "g\u014dng w\u00e9n"
+        ],
+        "zh-latn-pinyin-x-notone": [
+          "shen cha zhi du",
+          "gong wen"
+        ],
+        "it": [
+          "censura"
+        ],
+        "fr": [
+          "censure"
+        ],
+        "es": [
+          "documentos",
+          "documentos oficiales",
+          "censura"
+        ],
+        "nl": [
+          "documenten",
+          "offici\u00eble documenten",
+          "censuur"
+        ]
+      },
+      "edmDatasetName": [
+        "08611_Cineteca_di_Bologna"
+      ],
+      "edmIsShownAt": [
+        "http://www.italiataglia.it/search/dettaglio_opera?param=5482"
+      ],
+      "edmIsShownBy": [
+        "http://www.italiataglia.it/files/visti21000_wm_pdf/10997.pdf"
+      ],
+      "edmPlaceAltLabel": [
+        {
+          "def": "S\u00fcdeuropa"
+        },
+        {
+          "def": "Italienische Republik"
+        },
+        {
+          "def": "IT"
+        },
+        {
+          "def": "ITA"
+        },
+        {
+          "def": "\u042e\u0436\u043d\u0430\u044f \u0415\u0432\u0440\u043e\u043f\u0430"
+        },
+        {
+          "def": "\u0418\u0442\u0430\u043b\u044c\u044f\u043d\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430"
+        },
+        {
+          "def": "Europa meridional"
+        },
+        {
+          "def": "Piet\u0173 Europa"
+        },
+        {
+          "def": "Europa meridionale"
+        },
+        {
+          "def": "ITA"
+        },
+        {
+          "def": "IT"
+        },
+        {
+          "def": "Repubblica italiana"
+        },
+        {
+          "def": "it"
+        },
+        {
+          "def": "Bel Paese"
+        },
+        {
+          "def": "La penisola"
+        },
+        {
+          "def": "Europe du Sud"
+        },
+        {
+          "def": "R\u00e9publique Italienne"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "IT"
+        },
+        {
+          "def": "ITA"
+        },
+        {
+          "def": "La R\u00e9publique italienne"
+        },
+        {
+          "def": "It."
+        },
+        {
+          "def": "Ital."
+        },
+        {
+          "def": "Ita."
+        },
+        {
+          "def": "Union Europ\u00e9enne"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "Republiken Italien"
+        },
+        {
+          "def": "Italian tasavalta"
+        },
+        {
+          "def": "\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0418\u0442\u0430\u043b\u0438\u044f"
+        },
+        {
+          "def": "Repubblika Taljana"
+        },
+        {
+          "def": "\u0399\u03c4\u03b1\u03bb\u03b9\u03ba\u03ae \u0394\u03b7\u03bc\u03bf\u03ba\u03c1\u03b1\u03c4\u03af\u03b1"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "Italian Republic"
+        },
+        {
+          "def": "IT"
+        },
+        {
+          "def": "ITA"
+        },
+        {
+          "def": "Republic of Italy"
+        },
+        {
+          "def": "Repubblica Italiana"
+        },
+        {
+          "def": "Republika Italija"
+        },
+        {
+          "def": "Rep\u00fablica Italiana"
+        },
+        {
+          "def": "IT"
+        },
+        {
+          "def": "ITA"
+        },
+        {
+          "def": "Itaalia Vabariik"
+        },
+        {
+          "def": "Talianska republika"
+        },
+        {
+          "def": "Iod\u00e1il"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "Republica Italian\u0103"
+        },
+        {
+          "def": "Italiaanse Republiek"
+        },
+        {
+          "def": "Italie"
+        },
+        {
+          "def": "Republiek Itali\u00eb"
+        },
+        {
+          "def": "IT"
+        },
+        {
+          "def": "ITA"
+        },
+        {
+          "def": "Estat Itali\u00e0"
+        },
+        {
+          "def": "Rep\u00fablica Italiana"
+        }
+      ],
+      "edmPlaceAltLabelLangAware": {
+        "de": [
+          "S\u00fcdeuropa",
+          "Italienische Republik",
+          "IT",
+          "ITA"
+        ],
+        "ru": [
+          "\u042e\u0436\u043d\u0430\u044f \u0415\u0432\u0440\u043e\u043f\u0430",
+          "\u0418\u0442\u0430\u043b\u044c\u044f\u043d\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430"
+        ],
+        "sv": [
+          "Italia",
+          "Republiken Italien"
+        ],
+        "fi": [
+          "Italian tasavalta"
+        ],
+        "pt": [
+          "Europa meridional"
+        ],
+        "bg": [
+          "\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0418\u0442\u0430\u043b\u0438\u044f"
+        ],
+        "mt": [
+          "Repubblika Taljana"
+        ],
+        "el": [
+          "\u0399\u03c4\u03b1\u03bb\u03b9\u03ba\u03ae \u0394\u03b7\u03bc\u03bf\u03ba\u03c1\u03b1\u03c4\u03af\u03b1"
+        ],
+        "lt": [
+          "Piet\u0173 Europa"
+        ],
+        "en": [
+          "Italia",
+          "Italian Republic",
+          "IT",
+          "ITA",
+          "Republic of Italy",
+          "Repubblica Italiana"
+        ],
+        "hr": [
+          "Republika Italija"
+        ],
+        "it": [
+          "Europa meridionale",
+          "ITA",
+          "IT",
+          "Repubblica italiana",
+          "it",
+          "Bel Paese",
+          "La penisola"
+        ],
+        "fr": [
+          "Europe du Sud",
+          "R\u00e9publique Italienne",
+          "Italia",
+          "IT",
+          "ITA",
+          "La R\u00e9publique italienne",
+          "It.",
+          "Ital.",
+          "Ita.",
+          "Union Europ\u00e9enne"
+        ],
+        "es": [
+          "Rep\u00fablica Italiana",
+          "IT",
+          "ITA"
+        ],
+        "et": [
+          "Itaalia Vabariik"
+        ],
+        "sk": [
+          "Talianska republika"
+        ],
+        "ga": [
+          "Iod\u00e1il",
+          "Italia"
+        ],
+        "ro": [
+          "Republica Italian\u0103"
+        ],
+        "nl": [
+          "Italiaanse Republiek",
+          "Italie",
+          "Republiek Itali\u00eb",
+          "IT",
+          "ITA"
+        ],
+        "ca": [
+          "Estat Itali\u00e0",
+          "Rep\u00fablica Italiana"
+        ]
+      },
+      "edmPlaceLabel": [
+        {
+          "def": "Southern Europe"
+        },
+        {
+          "def": "Mediterranean Basin"
+        },
+        {
+          "def": "Italien"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "\u0418\u0442\u0430\u043b\u0438\u044f"
+        },
+        {
+          "def": "It\u00e1lia"
+        },
+        {
+          "def": "\u0418\u0442\u0430\u043b\u0438\u044f"
+        },
+        {
+          "def": "Italija"
+        },
+        {
+          "def": "Italija"
+        },
+        {
+          "def": "It\u0101lija"
+        },
+        {
+          "def": "Italie"
+        },
+        {
+          "def": "Olaszorsz\u00e1g"
+        },
+        {
+          "def": "Taliansko"
+        },
+        {
+          "def": "Italija"
+        },
+        {
+          "def": "An Iod\u00e1il"
+        },
+        {
+          "def": "It\u00e0lia"
+        },
+        {
+          "def": "Italien"
+        },
+        {
+          "def": "Italja"
+        },
+        {
+          "def": "\u0399\u03c4\u03b1\u03bb\u03af\u03b1"
+        },
+        {
+          "def": "Italy"
+        },
+        {
+          "def": "Italy"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "Itaalia"
+        },
+        {
+          "def": "It\u00e1lie"
+        },
+        {
+          "def": "Evropsk\u00e1 unie"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "W\u0142ochy"
+        },
+        {
+          "def": "Italien"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "Itali\u00eb"
+        },
+        {
+          "def": "Europese Unie"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "de": [
+          "Italien"
+        ],
+        "fi": [
+          "Italia"
+        ],
+        "ru": [
+          "\u0418\u0442\u0430\u043b\u0438\u044f"
+        ],
+        "def": [
+          "Southern Europe",
+          "Mediterranean Basin"
+        ],
+        "pt": [
+          "It\u00e1lia"
+        ],
+        "bg": [
+          "\u0418\u0442\u0430\u043b\u0438\u044f"
+        ],
+        "lt": [
+          "Italija"
+        ],
+        "hr": [
+          "Italija"
+        ],
+        "lv": [
+          "It\u0101lija"
+        ],
+        "fr": [
+          "Italie"
+        ],
+        "hu": [
+          "Olaszorsz\u00e1g"
+        ],
+        "sk": [
+          "Taliansko"
+        ],
+        "sl": [
+          "Italija"
+        ],
+        "ga": [
+          "An Iod\u00e1il"
+        ],
+        "ca": [
+          "It\u00e0lia"
+        ],
+        "sv": [
+          "Italien"
+        ],
+        "mt": [
+          "Italja"
+        ],
+        "el": [
+          "\u0399\u03c4\u03b1\u03bb\u03af\u03b1"
+        ],
+        "en": [
+          "Italy",
+          "Italy"
+        ],
+        "it": [
+          "Italia"
+        ],
+        "es": [
+          "Italia"
+        ],
+        "et": [
+          "Itaalia"
+        ],
+        "cs": [
+          "It\u00e1lie",
+          "Evropsk\u00e1 unie"
+        ],
+        "eu": [
+          "Italia"
+        ],
+        "pl": [
+          "W\u0142ochy"
+        ],
+        "da": [
+          "Italien"
+        ],
+        "ro": [
+          "Italia"
+        ],
+        "nl": [
+          "Itali\u00eb",
+          "Europese Unie"
+        ]
+      },
+      "edmPlaceLatitude": [
+        "41.34382",
+        "42.5",
+        "50.83857",
+        "35.78",
+        "42.83333"
+      ],
+      "edmPlaceLongitude": [
+        "-3.33984",
+        "12.5",
+        "4.37599",
+        "19.33",
+        "12.83333"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fwww.italiataglia.it%2Ffiles%2Fvisti21000_wm_pdf%2F10997.pdf&type=TEXT"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "1951"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "zxx": [
+          "1951"
+        ]
+      },
+      "europeanaCollectionName": [
+        "08611_Cineteca_di_Bologna"
+      ],
+      "europeanaCompleteness": 6,
+      "guid": "https://www.europeana.eu/item/08611/censorship5482?utm_source=api&utm_medium=api&utm_campaign=videellegi ",
+      "id": "/08611/censorship5482",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/08611/censorship5482.json?wskey=videellegi+",
+      "previewNoDistribute": false,
+      "provider": [
+        "The European Film Gateway"
+      ],
+      "rights": [
+        "http://rightsstatements.org/vocab/InC/1.0/"
+      ],
+      "score": 94.79217,
+      "timestamp": 1688652333693,
+      "timestamp_created": "2019-12-12T11:55:28.548Z",
+      "timestamp_created_epoch": 1576151728548,
+      "timestamp_update": "2021-12-15T09:38:29.917Z",
+      "timestamp_update_epoch": 1639561109917,
+      "title": [
+        "iron man\\ n\\ t\\ n\\ t iron man.",
+        "uomo di ferro\n\t\t\t\t                 \n\t\t\t\t                 Iron Man"
+      ],
+      "type": "TEXT",
+      "ugc": [
+        false
+      ],
+      "year": [
+        "1951"
+      ]
+    }
+  ]
+}
