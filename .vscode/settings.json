@@ -1,0 +1,7 @@
+{
+    "python.terminal.activateEnvironment": false,
+    "python.terminal.launchArgs": [
+        
+    ],
+    "python.terminal.activateEnvInCurrentTerminal": true
+}
